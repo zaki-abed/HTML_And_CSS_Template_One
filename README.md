@@ -5,3 +5,7 @@ This repository is a record of my learning journey through a YouTube course on a
 ## Live Demo:
 - [https://zaki-abed.github.io/HTML_And_CSS_Template_One/](https://zaki-abed.github.io/HTML_And_CSS_Template_One/)
 
+## Screenshots
+**Login Page**
+
+![Screenshot 1](images/demo.png)
